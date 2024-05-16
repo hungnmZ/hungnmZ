@@ -27,10 +27,10 @@
 > <h4 >🛠 &nbsp;Interested technologies and topics</h4>
 >
 > <p> 
+> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="30" height="30" alt="Nodejs" /></a>&nbsp;
 > &nbsp;<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="./resources/react-colored.svg" width="30" height="30" alt="React" /></a>&nbsp;
 > &nbsp;<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="./resources/GraphQL.png" width="30" height="30" alt="GraphQL" /></a>&nbsp;
 > &nbsp;<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="./resources/tailwindcss-colored.svg" width="30" height="30" alt="TailwindCSS" /></a>&nbsp;
-> &nbsp;<a href="https://spring.io" target="_blank" rel="noreferrer"><img src="./resources/spring.svg" width="30" height="30" alt="Spring" /></a>&nbsp;
 > &nbsp;<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="./resources/k8s.svg" width="30" height="30" alt="React" /></a>&nbsp;
 > &nbsp;<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="./resources/docker.svg" width="30" height="30" alt="React" /></a>&nbsp;
 > &nbsp;<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="./resources/linux.svg" width="30" height="30" alt="React" /></a>&nbsp;
@@ -44,8 +44,6 @@
 >
 > &nbsp;
 >
-> <img src="https://visitor-badge.glitch.me/badge?page_id=hungnmZ.hungnmZ&left_text=Visitors&right_color=%2370a4fc" alt="visitors">
-
 <div align="center">
   <img width="100%" src="./resources/github-contribution-grid-snake.svg" alt="snake">
 </div>
