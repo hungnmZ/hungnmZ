@@ -27,7 +27,7 @@
 > <h4 >🛠 &nbsp;Interested technologies and topics</h4>
 >
 > <p> 
-> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="30" height="30" alt="Nodejs" /></a>&nbsp;
+> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" width="30" height="30" alt="Nodejs" /></a>&nbsp;
 > &nbsp;<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="./resources/react-colored.svg" width="30" height="30" alt="React" /></a>&nbsp;
 > &nbsp;<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="./resources/GraphQL.png" width="30" height="30" alt="GraphQL" /></a>&nbsp;
 > &nbsp;<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="./resources/tailwindcss-colored.svg" width="30" height="30" alt="TailwindCSS" /></a>&nbsp;
